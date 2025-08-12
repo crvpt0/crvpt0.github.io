@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Phd student. My research focuses on provable security in cryptography.
+I am a Phd of cryptography. My research focuses on provable security in cryptography, including (password-base) authenticated key exchange and subversion-resilient cryptography.
 
 Publications
 ======
