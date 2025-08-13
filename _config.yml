@@ -23,10 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiahao"
-  pronouns         : # example: "she/her"  
-  bio              : "A cryptographer"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A cryptographic researcher"
+  employer         : "AMS"
   uri              : # URL
   email            : "none@example.org" 
 
