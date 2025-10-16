@@ -12,7 +12,7 @@ I am a Phd of cryptography. My research focuses on provable security in cryptogr
 Publications
 ======
 1. Universally Composable Subversion-Resilient Authenticated Key Exchange.
-In Asiacrypt 2025 (to appear), Dec 2025.
+In Asiacrypt 2025 (to appear), Dec 2025. ([eprint](https://eprint.iacr.org/2025/1521))
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
