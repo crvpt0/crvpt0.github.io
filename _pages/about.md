@@ -17,9 +17,6 @@ In Asiacrypt 2025 (to appear), Dec 2025. ([eprint](https://eprint.iacr.org/2025/
 1. **srTLS: Secure TLS Handshake on Corrupted Machines**.
 Jiahao Liu, Yi Wang, Xincheng Tang, Rongmao Chen, Xinyi Huang, Jinshu Su.
 In IEEE TDSC. ([link](https://ieeexplore.ieee.org/abstract/document/10820170))
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
