@@ -6,7 +6,7 @@ permalink: /publication/asiacrypt2025
 excerpt: 'First framework for subversion-resilient UC-secure AKE protocols with transparent reverse firewalls'
 date: 2025-12-01
 venue: 'ASIACRYPT 2025'
-paperurl: 'files/asiacrypt2025.pdf'
+paperurl: 'files/asiacrypt2025.pdf.pdf'
 eprint: 'https://eprint.iacr.org/2025/1521'
 citation: 'Jiahao Liu, Yi Wang, Rongmao Chen, Xinyi Huang, Jinshu Su, Moti Yung. (2025). &quot;Universally Composable Subversion-Resilient Authenticated Key Exchange.&quot; <i>ASIACRYPT 2025</i>.'
 ---

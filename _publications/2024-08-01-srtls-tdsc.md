@@ -6,7 +6,7 @@ permalink: /publication/srtls-tdsc2024
 excerpt: 'Securing TLS handshake against implementation corruption and subversion attacks'
 date: 2024-08-01
 venue: 'IEEE Transactions on Dependable and Secure Computing (TDSC)'
-paperurl: 'files/srtls-tdsc2024.pdf'
+paperurl: 'files/srtls-tdsc2024.pdf.pdf'
 link: 'https://ieeexplore.ieee.org/abstract/document/10820170'
 citation: 'Jiahao Liu, Yi Wang, Xincheng Tang, Rongmao Chen, Xinyi Huang, Jinshu Su. (2024). &quot;srTLS: Secure TLS Handshake on Corrupted Machines.&quot; <i>IEEE TDSC</i>.'
 ---
