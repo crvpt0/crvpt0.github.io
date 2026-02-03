@@ -14,5 +14,3 @@ citation: 'Jiahao Liu, Yi Wang, Xincheng Tang, Rongmao Chen, Xinyi Huang, Jinshu
 This paper addresses the critical challenge of securing the TLS handshake protocol on corrupted machines. TLS is the foundation of secure Internet communication, but its security relies on correct implementation. When the implementation is subverted or corrupted, traditional security guarantees may not hold.
 
 We propose srTLS, a novel approach to secure the TLS handshake even when the underlying machine or implementation has been corrupted. Our approach leverages cryptographic techniques to maintain security guarantees in the face of subversion attacks.
-
-**Note:** PDF file to be added. Current link points to placeholder.
