@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I have a Ph.D. in Cryptography from AMS. My research focuses on provable security in cryptography, including password-based authenticated key exchange and subversion-resilient cryptography.
+I am a Ph.D. in cryptography from AMS. My research focuses on provable security in cryptography, including password-based authenticated key exchange and subversion-resilient cryptography.
 
 ## Research Interests
 
